@@ -1,0 +1,2 @@
+# CurseGO
+CurseGO
